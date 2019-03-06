@@ -1,1 +1,2 @@
-* linguist-language=Java, Groovy
+*.groovy linguist-language=Groovy
+* linguist-language=Java
