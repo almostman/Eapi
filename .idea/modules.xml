@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eapi.iml" filepath="$PROJECT_DIR$/.idea/modules/eapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eapi_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/eapi_integrationTest.iml" group="eapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eapi_main.iml" group="eapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eapi_test.iml" group="eapi" />
+    </modules>
+  </component>
+</project>

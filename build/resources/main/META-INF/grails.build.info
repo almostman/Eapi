@@ -1,0 +1,6 @@
+#Mon, 26 Dec 2016 16:31:00 +0800
+
+grails.env=production
+info.app.version=unspecified
+info.app.grailsVersion=3.2.3
+info.app.name=eapi

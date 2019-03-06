@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-web-databinding:3.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.3/565a137b99ba7559c5dc51fccf76c102caa2d87/grails-web-databinding-3.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.3/4c203ffe439594ac111798f0744d226cc5d3c7e8/grails-web-databinding-3.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
